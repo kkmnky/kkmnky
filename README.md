@@ -17,8 +17,8 @@ Qiita
 
 -->
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkmnky&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kkmnky" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-kaminaken.vercel.app/api/top-langs/?username=kkmnky&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-kaminaken.vercel.app/api?username=kkmnky" />
   
 </p>
 
