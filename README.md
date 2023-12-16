@@ -7,7 +7,7 @@ Hi, I'm an SRE engineer.
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws,azure,docker,git,github,githubactions,gitlab,prometheus,grafana,linux,ansible,kubernetes,java,spring," />
 
 #### Sutdying
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,nextjs,nuxtjs,rust,py,django,gcp,html,css,bootstrap,graphql" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,nextjs,nuxtjs,rust,py,django,gcp,html,css,graphql" />
 
 
 ## 📈 Status
